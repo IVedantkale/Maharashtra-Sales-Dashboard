@@ -24,5 +24,4 @@ This project is an **interactive Excel dashboard** built using **Pivot Tables, C
 4. View sales performance, target achievement, and comparative analysis.
 
 📸 Preview
-
-![Dashboard Screenshot](./Screenshot_2025-08-29.png)
+<img width="1888" height="745" alt="Screenshot 2025-08-29 224942" src="https://github.com/user-attachments/assets/27962fae-6ea7-426f-9f8c-5e189c6be13b" />
